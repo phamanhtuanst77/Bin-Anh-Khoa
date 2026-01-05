@@ -1,0 +1,7 @@
+{
+  "name": "Siêu Gia Sư Toán 9 Vào 10",
+  "description": "Ứng dụng hỗ trợ ôn thi vào lớp 10 môn Toán với triết lý giảng dạy 7 bước vàng, chuyên sâu cho học sinh mức trung bình.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
